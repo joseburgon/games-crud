@@ -63,7 +63,7 @@ php artisan serve
 
 You can now access the server at http://localhost:8000.
 
-Or http://videomanolo-backend.test/ if you use [Valet](https://laravel.com/docs/7.x/valet) on Mac or [Laragon](https://laragon.org/) on Windows.
+Or http://gaming-crud.test/login if you use [Valet](https://laravel.com/docs/7.x/valet) on Mac or [Laragon](https://laragon.org/) on Windows.
 
 *Email: admin@test.com
 Password: promarketing*
