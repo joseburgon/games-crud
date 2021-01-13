@@ -1,6 +1,8 @@
 # Gaming CRUD
 
-Live App on Heroku: https://github.com/joseburgon/games-crud.git
+Prueba técnica para Promarketing Chile.
+
+Aplicación corriendo en vivo en Heroku: https://github.com/joseburgon/games-crud.git
 
 ## Local Installation Process
 
